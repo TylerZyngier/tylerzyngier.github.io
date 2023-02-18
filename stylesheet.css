@@ -1,0 +1,5 @@
+/* Set default styles for all elements */
+* {
+  font-family: Arial, sans-serif;
+  font-size: 16px;
+}
